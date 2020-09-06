@@ -1,0 +1,51 @@
+body {
+  background-color: #eee;
+  color: #3E4F63;
+  font-family: 'Poppins', sans-serif;
+}
+
+.page-container {
+  margin: 0 auto;
+  width: 70%;
+  max-width: 1600px;
+}
+
+.page-header {
+  position: relative;
+  top: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 75px;
+}
+
+.page-title {
+}
+
+.page-title .main {
+  font-family: 'Satisfy', cursive;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.page-title .subtitle {
+  font-size: 10px;
+  padding-left: 35px;
+}
+
+.nav-menu {
+}
+
+.nav-menu > ul {
+  list-style: none;
+  font-size: 12px;
+}
+
+.nav-menu > ul > li {
+  float: left;
+  margin: 5px;
+}
+
+.main-gallery {
+  margin: 0 auto;
+  text-align: center;
+}
